@@ -3,7 +3,7 @@ random news information
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/Vuln-Scan" height="60%" width="100%" src="Screenshot_20210412-145427201.jpg"/>
+     <img alt="AsukaDev-Official/News" height="60%" width="100%" src="Screenshot_20210418-104105133.jpg"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@ random news information
 ##
 ### :octocat: Hi, thanks for spending your time visiting this repository !
 <p>
-This is Anime Tracker Program Vulnerability Scan Using Tkinter
+This is News Information Program
 </p>
 
 
